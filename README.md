@@ -1,5 +1,5 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-<p style="text-align:center">Center this text!</p>
+<p style="text-align:center"></p>
  poseture detection using machine learing and deep learning 
 
 ## step 1:
@@ -14,17 +14,7 @@ create a file by naming index.html
 
 ## step 4:
 create another file by naming (sketch.js)
+<p align="center">
+  <img src="http://some_place.com/image.png" />
+</p>
 
-
- <html>
-<head>
-<style>
-h1 {text-align: center;}
-</style>
-</head>
-<body>
-
-<h1>Poisture dEtection</h1>
-
-</body>
-</html> 
