@@ -1,6 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ## center<align "poseture-detection"></align>
-poseture detection using machine learing and deep learning 
+ poseture detection using machine learing and deep learning 
 
 ## step 1:
 open desktop and  make a folder by renaming PoseNet 
@@ -16,3 +16,15 @@ create a file by naming index.html
 create another file by naming (sketch.js)
 
 
+ <html>
+<head>
+<style>
+h1 {text-align: center;}
+</style>
+</head>
+<body>
+
+<h1>Poisture dEtection</h1>
+
+</body>
+</html> 
