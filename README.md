@@ -5,13 +5,13 @@
  poseture detection using machine learing and deep learning 
  well, let me tell you some breif about this project 
  in this project we are not trainihg the model, it is front end based project 
- here two things libraries we are using
+ here you need two libraries.
  ### 1. p5.js 
- (p5.js is a JavaScript library for creative coding, with a focus on making coding accessible and inclusive for artists, designers, educators, beginners, and anyone else! p5.js is free and open-source. you can read more on link = 'https://p5js.org/'
+ (p5.js is a JavaScript library for creative coding, with a focus on making coding accessible and inclusive for artists, designers, educators, beginners, and anyone else! p5.js is free and open-source, you can read more through this link  'https://p5js.org/'.
  ### 2.ml5.js
- ml5.js is an open source, friendly high level interface to TensorFlow.js, a library for handling GPU-accelerated mathematical operations and memory management for machine learning algorithms. 
+ ml5.js is an open source, friendly high level interface to TensorFlow.js, a library for handling GPU-accelerated mathematical operations and memory management for machine learning algorithms, you can read more on  'https://ml5js.org/'
 ## step 1:
-open desktop and  make a folder by renaming (PoseNet) 
+open desktop and  make a folder by renaming (PoseNet).
 
 ## Step 2:
 open visual studio code and open the previous folder which you made on desktop (poseNet)
