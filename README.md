@@ -15,4 +15,4 @@ create a file by naming index.html
 ## step 4:
 create another file by naming < sketch.js 
 
- <button type="button">Click Me!</button> 
+ <button type="button">sketch.js </button> 
