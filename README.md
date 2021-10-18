@@ -30,6 +30,7 @@ create another file by naming (sketch.js)
 copy the my code and paste it respective files and run it 
 
 ## demo on github is here 
+<img src="https://raw.githubusercontent.com/sahilsaqi/poseture-detection/main/images/Screenshot%20(581).png" width="500" alt="My cool logo"/>
 
 'https://sahilsaqi.github.io/poseture-detection/'
 
