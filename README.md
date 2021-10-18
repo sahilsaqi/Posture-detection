@@ -13,6 +13,4 @@ open visual studio code and open the previous folder which you made on desktop (
 create a file by naming index.html
 
 ## step 4:
-create another file by naming < sketch.js 
-
- <button type="button">sketch.js </button> 
+create another file by naming <br sketch.js></br> 
