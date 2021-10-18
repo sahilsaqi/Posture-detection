@@ -25,6 +25,6 @@ create another file by naming (sketch.js)
 copy the my code and paste it respective files and run it 
 
 ## demo on github is here 
-
+'https://sahilsaqi.github.io/poseture-detection/'
 
 
