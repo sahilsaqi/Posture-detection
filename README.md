@@ -1,6 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <p align="center">
-  poisture detection
+  <h1>Poisture Petection</h1>
 </p>
  poseture detection using machine learing and deep learning 
 
