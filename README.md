@@ -1,7 +1,5 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-<p align="center">
-  <h1>Poisture Petection</h1>
-</p>
+Poisture Petection
  poseture detection using machine learing and deep learning 
  well, let me tell you some breif about this project 
  in this project we are not trainihg the model, it is front end based project 
