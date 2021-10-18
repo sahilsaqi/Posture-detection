@@ -12,6 +12,7 @@ Poisture Petection
  
  <img src="https://raw.githubusercontent.com/sahilsaqi/poseture-detection/main/ml5.png" width="250" alt="My cool logo"/>
  ml5.js is an open source, friendly high level interface to TensorFlow.js, a library for handling GPU-accelerated mathematical operations and memory management for machine learning algorithms, you can read more on  'https://ml5js.org/'
+ 
 ## step 1:
 open desktop and  make a folder by renaming (PoseNet).
 
@@ -29,6 +30,7 @@ create another file by naming (sketch.js)
 copy the my code and paste it respective files and run it 
 
 ## demo on github is here 
+
 'https://sahilsaqi.github.io/poseture-detection/'
 
 ## Technoologies and tools
