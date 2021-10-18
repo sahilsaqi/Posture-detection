@@ -1,5 +1,5 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-## center<align "poseture-detection"></align>
+<h1-align:center "poseture-detection"></h1>
  poseture detection using machine learing and deep learning 
 
 ## step 1:
